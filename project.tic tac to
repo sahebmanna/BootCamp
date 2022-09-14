@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+    printf("========Tic Tac To========");
+    printf("    |    |     |");
+    printf("    |    |     |");
+    printf("----------------");
+    printf("    |    |     |");
+    printf("    |    |     |");
+    printf("----------------");
+    printf("    |    |     |");
+    printf("    |    |     |");
+}
