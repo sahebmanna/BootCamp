@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main(){
-    int x,z;
+    int y=100,x,z;
     printf("Enter value of x:");
     scanf("%d",&x);
+    y=y*10;
+    x=x+y;
 
-    z=x/10;
-
-    printf("%d",z);
+    printf("%d",x);
     return 0;
 
 }

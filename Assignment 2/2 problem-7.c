@@ -1,3 +1,5 @@
+//7. Write a program to find the position of first 1 in LSB.
+
 #include<stdio.h>
 int main(){
     int x,count=0,result=0;
