@@ -1,3 +1,5 @@
+//18. Write a program which takes the month number as an input and display number of
+//days in that mont
 #include<stdio.h>
 int main(){
         int month_no;
