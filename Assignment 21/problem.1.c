@@ -6,5 +6,6 @@ struct Employee{
 };
 int main(){
     struct Employee e={1,"java",111.0f};
+    //return 0;
 }
 

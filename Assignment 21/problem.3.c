@@ -7,14 +7,14 @@ struct Employee{
     float salary;
 };
 int main(){
-    struct Employee e;
+
     struct Employee e2;
     e2=input();
     display(e2);
     return 0;
 }
 void display(struct Employee e1){
-            printf("id=%d,name=%s,salary=%f",e1.id,e1.name,e1.salary);
+            printf("ID=%d,Name=%s,Salary=%f",e1.id,e1.name,e1.salary);
 }
 struct Employee input(){
     struct Employee e;
